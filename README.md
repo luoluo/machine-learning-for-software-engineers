@@ -135,17 +135,17 @@
 - [x] [机器学习是什么？它是如何工作的呢？](https://www.youtube.com/watch?v=elojMnjn4kk&list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A&index=1)
 - [x] [深度学习——一份非技术性的简介](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
-## 掌握机器学习
-- [ ] [掌握机器学习的方法](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
-- [ ] [掌握并运用机器学习](http://machinelearningmastery.com/start-here/)
+## 掌握机器学习 :-1:
+- [x] [掌握机器学习的方法](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [x] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [x] [掌握并运用机器学习](http://machinelearningmastery.com/start-here/)
 - [ ] [Python机器学习小课程](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [机器学习算法小课程](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
 ## 有趣的机器学习
 - [ ] [机器学习真有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
 - [ ] [Part 2: 使用机器学习来创造超级马里奥的关卡](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
-- [ ] [Part 3: 深度学习与卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
+- [ ] [Part 3: 深度学习与卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neuralnetworks-f40359318721#.44rhxy637)
 - [ ] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [ ] [Part 6: 如何使用深度学习进行语音识别](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
