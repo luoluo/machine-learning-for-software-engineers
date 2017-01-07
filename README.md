@@ -156,7 +156,7 @@
 
 ## 一本深入、非技术性的机器学习指南 :+1: :+1:
 - [x] [概述，目标，学习类型和算法](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
-- [ ] [数据的选择，准备与建模](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
+- [x] [数据的选择，准备与建模](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [ ] [模型的评估，验证，复杂性与改进](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
 - [ ] [模型性能与误差分析](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
 - [ ] [无监督学习，相关领域与实践中的机器学习](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
