@@ -159,7 +159,7 @@
 - [x] [数据的选择，准备与建模](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-2/)
 - [x] [模型的评估，验证，复杂性与改进](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-3/)
 - [x] [模型性能与误差分析](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-4/)
-- [ ] [无监督学习，相关领域与实践中的机器学习](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
+- [x] [无监督学习，相关领域与实践中的机器学习](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
 ## 故事与经验
 - [ ] [一周的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
