@@ -142,9 +142,9 @@
 - [ ] [Python机器学习小课程](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [机器学习算法小课程](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
-## 有趣的机器学习
-- [ ] [机器学习真有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
-- [ ] [Part 2: 使用机器学习来创造超级马里奥的关卡](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
+## 有趣的机器学习 :+1: :+1:
+- [x] [机器学习真有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+- [x] [Part 2: 使用机器学习来创造超级马里奥的关卡](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
 - [ ] [Part 3: 深度学习与卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neuralnetworks-f40359318721#.44rhxy637)
 - [ ] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
