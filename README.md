@@ -167,7 +167,7 @@
 - [x] [我是如何在3天内写出我的第一个机器学习程序的](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
 - [x] [学习路径：你成为机器学习专家的导师](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [x] [不是PhD你也可以成为机器学习的摇滚明星](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
-- [ ] 如何6个月成为一名数据科学家：一名黑客的职业规划
+- [x] 如何6个月成为一名数据科学家：一名黑客的职业规划 :+1: complex project need a good plan
     - [视频](https://www.youtube.com/watch?v=rIofV14c0tc)
     - [幻灯片](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
 - [x] [5个你成为机器学习工程师必须要掌握的技能](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
