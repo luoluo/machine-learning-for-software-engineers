@@ -171,9 +171,9 @@
     - [视频](https://www.youtube.com/watch?v=rIofV14c0tc)
     - [幻灯片](http://www.slideshare.net/TetianaIvanova2/how-to-become-a-data-scientist-in-6-months)
 - [x] [5个你成为机器学习工程师必须要掌握的技能](http://blog.udacity.com/2016/04/5-skills-you-need-to-become-a-machine-learning-engineer.html)
-- [ ] [你是一个自学成才的机器学习工程师吗？你是怎么做的？花了多长时间？](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
-- [ ] [一个人如何成为一名优秀的机器学习工程师？](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
-- [ ] [一个关注于机器学习的学术假期](http://karlrosaen.com/ml/)
+- [x] [你是一个自学成才的机器学习工程师吗？你是怎么做的？花了多长时间？](https://www.quora.com/Are-you-a-self-taught-machine-learning-engineer-If-yes-how-did-you-do-it-how-long-did-it-take-you)
+- [x] [一个人如何成为一名优秀的机器学习工程师？](https://www.quora.com/How-can-one-become-a-good-machine-learning-engineer)
+- [x] [一个关注于机器学习的学术假期](http://karlrosaen.com/ml/):+1:
 
 ## 机器学习算法
 - [ ] [用“士兵”来表示10种机器学习算法](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
