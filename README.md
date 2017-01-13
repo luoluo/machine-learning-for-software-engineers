@@ -176,7 +176,7 @@
 - [x] [一个关注于机器学习的学术假期](http://karlrosaen.com/ml/):+1:
 
 ## 机器学习算法
-- [ ] [用“士兵”来表示10种机器学习算法](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
+- [x] [用“士兵”来表示10种机器学习算法](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
 - [ ] [Top10的数据挖掘算法](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 - [ ] [介绍10种机器学习的术语](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
 - [ ] [机器学习算法之旅](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
