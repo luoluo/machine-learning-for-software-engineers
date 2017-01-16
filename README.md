@@ -177,9 +177,9 @@
 
 ## 机器学习算法
 - [x] [用“士兵”来表示10种机器学习算法](https://www.analyticsvidhya.com/blog/2015/12/10-machine-learning-algorithms-explained-army-soldier/)
-- [ ] [Top10的数据挖掘算法](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
-- [ ] [介绍10种机器学习的术语](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
-- [ ] [机器学习算法之旅](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+- [x] [Top10的数据挖掘算法](https://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
+- [x] [介绍10种机器学习的术语](http://blog.aylien.com/10-machine-learning-terms-explained-in-simple/)
+- [x] [机器学习算法之旅](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 - [ ] [机器学习工程师需要知道的10种算法](https://gab41.lab41.org/the-10-algorithms-machine-learning-engineers-need-to-know-f4bb63f5b2fa#.ofc7t2965)
 - [ ] [比较监督学习算法](http://www.dataschool.io/comparing-supervised-learning-algorithms/)
 - [收集的最简化、可执行的机器学习算法](https://github.com/rushter/MLAlgorithms)
