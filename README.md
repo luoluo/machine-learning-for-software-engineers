@@ -229,10 +229,10 @@
 - [ ] [使用TensorFlow(MEAP)进行机器学习](https://www.manning.com/books/machine-learning-with-tensorflow)
     - [GitHub repository](https://github.com/BinRoot/TensorFlow-Book)
 
-## Kaggle知识竞赛
-- [ ] [Kaggle竞赛：怎么样，在哪里开始？](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
-- [ ] [一个初学者如何用一个小项目在机器学习入门并在Kaggle竞争](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
-- [ ] [如何竞争Kaggle的Master](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
+## Kaggle知识竞赛 :+1: parctice, practice, practice
+- [x] [Kaggle竞赛：怎么样，在哪里开始？](https://www.analyticsvidhya.com/blog/2015/06/start-journey-kaggle/)
+- [x] [一个初学者如何用一个小项目在机器学习入门并在Kaggle竞争](http://machinelearningmastery.com/how-a-beginner-used-small-projects-to-get-started-in-machine-learning-and-compete-on-kaggle)
+- [x] [如何竞争Kaggle的Master](http://machinelearningmastery.com/master-kaggle-by-competing-consistently/)
 
 ## 系列视频
 - [ ] [Machine Learning for Hackers](https://www.youtube.com/playlist?list=PL2-dafEMk2A4ut2pyv0fSIXqOzXtBGkLj)
